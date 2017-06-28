@@ -1,2 +1,5 @@
-# asia2017
-A repository containing gap analysis data for Asian Vertebrates and Tracheophytes.
+# Asian Vertebrates and Tracheophytes
+
+This repository contains gap analysis data on vertebrate and tracheophyte taxa in Asia.
+
+
